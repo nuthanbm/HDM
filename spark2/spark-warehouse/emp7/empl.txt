@@ -1,0 +1,2 @@
+nuthan,BM,5000,IT
+siva,A,4500,IT
